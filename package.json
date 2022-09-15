@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^4.3.1",
     "@types/axios": "^0.14.0",
     "@types/cors": "^2.8.12",
     "@types/dotenv": "^8.2.0",
